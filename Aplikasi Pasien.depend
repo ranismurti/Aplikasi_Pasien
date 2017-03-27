@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1490452715 source:e:\project c++\aplikasi pasien\aplikasi.cpp
+	"aplikasi.h"
+
+1490449036 e:\project c++\aplikasi pasien\aplikasi.h
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1490452749 e:\project c++\aplikasi pasien\list_child.h
+	<iostream>
+
+1490448777 e:\project c++\aplikasi pasien\list_parent.h
+	<iostream>
+
+1490449627 e:\project c++\aplikasi pasien\list_relasi.h
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1490452749 source:e:\project c++\aplikasi pasien\list_child.cpp
+	"list_child.h"
+
+1490448938 source:e:\project c++\aplikasi pasien\list_parent.cpp
+	"list_parent.h"
+
+1490449627 source:e:\project c++\aplikasi pasien\list_relasi.cpp
+	"list_relasi.h"
+
+1490260496 source:e:\project c++\aplikasi pasien\main.cpp
+	<iostream>
+	"aplikasi.h"
+
+1490452749 source:c:\users\rani\documents\aplikasi pasien\list_child.cpp
+	"list_child.h"
+
+1490452749 c:\users\rani\documents\aplikasi pasien\list_child.h
+	<iostream>
+
+1490449627 source:c:\users\rani\documents\aplikasi pasien\list_relasi.cpp
+	"list_relasi.h"
+
+1490449627 c:\users\rani\documents\aplikasi pasien\list_relasi.h
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1490448777 c:\users\rani\documents\aplikasi pasien\list_parent.h
+	<iostream>
+
+1490260496 source:c:\users\rani\documents\aplikasi pasien\main.cpp
+	<iostream>
+	"aplikasi.h"
+
+1490516713 c:\users\rani\documents\aplikasi pasien\aplikasi.h
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1490517983 source:c:\users\rani\documents\aplikasi pasien\aplikasi.cpp
+	"aplikasi.h"
+
+1490453698 source:c:\users\rani\documents\aplikasi pasien\list_parent.cpp
+	"list_parent.h"
+
+1490603277 source:f:\aplikasi pasien2fix\aplikasi pasien\list_parent.cpp
+	"list_parent.h"
+
+1490602981 f:\aplikasi pasien2fix\aplikasi pasien\list_parent.h
+	<iostream>
+
+1490449627 source:f:\aplikasi pasien2fix\aplikasi pasien\list_relasi.cpp
+	"list_relasi.h"
+
+1490449627 f:\aplikasi pasien2fix\aplikasi pasien\list_relasi.h
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1490452749 f:\aplikasi pasien2fix\aplikasi pasien\list_child.h
+	<iostream>
+
+1490520394 source:f:\aplikasi pasien2fix\aplikasi pasien\main.cpp
+	<iostream>
+	"aplikasi.h"
+
+1490604737 f:\aplikasi pasien2fix\aplikasi pasien\aplikasi.h
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1490603197 source:f:\aplikasi pasien2fix\aplikasi pasien\list_child.cpp
+	"list_child.h"
+
+1490603249 source:f:\aplikasi pasien2fix\aplikasi pasien\aplikasi.cpp
+	"aplikasi.h"
+
